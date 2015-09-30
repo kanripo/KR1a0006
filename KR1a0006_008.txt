@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周易
-#+DATE: 2015-09-23 09:34:09
+#+DATE: 2015-09-10 22:47:10.231088
+#+PROPERTY: ID KR1a0006
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 8
+#+PROPERTY: FILE SB01n0003-008周易-卷八.
 <pb:KR1a0006_SBCK_008-1a>¶
 周易繫辭下第八¶
 　　　　　　　韓康伯注¶
@@ -211,4 +215,3 @@
 枝吉人之辭寡躁人之辭多誣善之人其¶
 辭游失其守者其辭屈¶
 <pb:KR1a0006_SBCK_008-10b>¶
-

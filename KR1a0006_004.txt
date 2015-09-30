@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周易
-#+DATE: 2015-09-23 09:34:09
+#+DATE: 2015-09-10 22:47:10.056706
+#+PROPERTY: ID KR1a0006
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 4
+#+PROPERTY: FILE SB01n0003-004周易-卷四.
 <pb:KR1a0006_SBCK_004-1a>¶
 周易下經咸傳第四¶
 　　　　　　　王弼注¶
@@ -319,4 +323,3 @@
 也¶
 周易卷第四(經二千五百七十六字/注五千五百六十八字)¶
 <pb:KR1a0006_SBCK_004-15b>¶
-

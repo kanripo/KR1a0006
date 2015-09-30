@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周易
-#+DATE: 2015-09-23 09:34:09
+#+DATE: 2015-09-10 22:47:10.186585
+#+PROPERTY: ID KR1a0006
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 7
+#+PROPERTY: FILE SB01n0003-007周易-卷七.
 <pb:KR1a0006_SBCK_007-1a>¶
 周易繫辭上第七¶
 　　　　　　　韓康伯注¶
@@ -237,4 +241,3 @@
 <pb:KR1a0006_SBCK_007-11b>¶
 ¶
 　周易卷第七(經/注)¶
-

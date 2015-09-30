@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周易
-#+DATE: 2015-09-23 09:34:09
+#+DATE: 2015-09-10 22:47:10.142978
+#+PROPERTY: ID KR1a0006
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 6
+#+PROPERTY: FILE SB01n0003-006周易-卷六.
 <pb:KR1a0006_SBCK_006-1a>¶
 周易下經豐傳第六¶
 　　　　　　　王弼注¶
@@ -263,4 +267,3 @@
 (于飲酒无咎也以其能信於物故得逸豫而不憂於事之廢苟/不憂於事之廢而耽樂之甚則至于失節矣由於有孚失於是)¶
 (矣故曰濡其首/有孚失是也)象曰飲酒濡首亦不知節也¶
 周易卷第六(經二千三十四字/注四千九百一字)¶
-

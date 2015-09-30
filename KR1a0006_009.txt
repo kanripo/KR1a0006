@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周易
-#+DATE: 2015-09-23 09:34:09
+#+DATE: 2015-09-10 22:47:10.272151
+#+PROPERTY: ID KR1a0006
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 9
+#+PROPERTY: FILE SB01n0003-009周易-卷九.
 <pb:KR1a0006_SBCK_009-1a>¶
 周易&KR0003;卦第九¶
 　　　　　　韓康伯注¶
@@ -194,4 +198,3 @@
 決柔也君子道長小人道憂也(君子以決小人/長其道小人見)¶
 (決去爲/深憂也)¶
 周易卷第九¶
-

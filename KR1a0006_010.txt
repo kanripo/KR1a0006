@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周易
-#+DATE: 2015-09-23 09:34:09
+#+DATE: 2015-09-10 22:47:10.311171
+#+PROPERTY: ID KR1a0006
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 10
+#+PROPERTY: FILE SB01n0004-010周易略例-序.
 <pb:KR1a0006_SBCK_010-1a>¶
 周易略例序¶
 　　　　　唐四門助敎邢　璹　註¶
@@ -24,6 +28,8 @@
 輒爲註解雖不足敷&KR0042;易道庶幾有禆於¶
 敎義亦猶螢燐增輝於太陽涓流助深於¶
 臣壑臣之志也敢不上聞¶
+#+PROPERTY: JUAN 10
+#+PROPERTY: FILE SB01n0004-010周易略例-卷十.
 <pb:KR1a0006_SBCK_010-2a>¶
 周易略例卷第十¶
 明&KR0143;　王弼¶
@@ -337,4 +343,3 @@
 足任乎(豐之爲義貴在光/大惡於闇昧也)¶
 <pb:KR1a0006_SBCK_010-16b>¶
 <pb:KR1a0006_SBCK_010-16b>¶
-

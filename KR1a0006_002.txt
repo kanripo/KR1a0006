@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周易
-#+DATE: 2015-09-23 09:34:09
+#+DATE: 2015-09-10 22:47:09.972555
+#+PROPERTY: ID KR1a0006
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 2
+#+PROPERTY: FILE SB01n0003-002周易-卷二.
 <pb:KR1a0006_SBCK_002-1a>¶
 周易上經泰傳第二¶
 　　　　　　　王弼注¶
@@ -234,4 +238,3 @@
 (所觀者也不在於位最處上極高尚其志爲天下所觀者也處/天下所觀之地可不愼乎故君子德見乃得无咎生猶動出也)¶
 象曰觀其生志未平也(特處異地爲衆所觀不爲/平易和光流通志未平也)¶
 周易卷第二(經二千四十七字/注四千七十四字)¶
-

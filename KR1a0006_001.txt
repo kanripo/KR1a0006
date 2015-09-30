@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周易
-#+DATE: 2015-09-23 09:34:09
+#+DATE: 2015-09-10 22:47:09.924161
+#+PROPERTY: ID KR1a0006
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 1
+#+PROPERTY: FILE SB01n0003-001周易-卷一.
 <pb:KR1a0006_SBCK_001-1a>¶
 周易上經乾傳第一¶
 　　　　　　　　　　王弼注¶
@@ -371,4 +375,3 @@
 祥其旋元吉(禍福之祥生乎所履處履之極履道成矣/故可視履而考祥也居極應&KR0003;髙而不危)¶
 (是其旋也履道/大成故元吉也)象曰元吉在上大有慶也¶
 周易卷第一　︻(經三千二百五十五字/注五千九百四十四字)︼¶
-

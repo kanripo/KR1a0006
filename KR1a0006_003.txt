@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周易
-#+DATE: 2015-09-23 09:34:09
+#+DATE: 2015-09-10 22:47:10.016552
+#+PROPERTY: ID KR1a0006
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 3
+#+PROPERTY: FILE SB01n0003-003周易-卷三.
 <pb:KR1a0006_SBCK_003-1a>¶
 周易上經噬嗑傳第三¶
 　　　　　　　　　王弼注¶
@@ -256,4 +260,3 @@
 <pb:KR1a0006_SBCK_003-12b>¶
 ¶
 周易卷第三(經一千九百七十五字/注四千六百九十四字)¶
-

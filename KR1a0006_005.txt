@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周易
-#+DATE: 2015-09-23 09:34:09
+#+DATE: 2015-09-10 22:47:10.101339
+#+PROPERTY: ID KR1a0006
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 5
+#+PROPERTY: FILE SB01n0003-005周易-卷五.
 <pb:KR1a0006_SBCK_005-1a>¶
 周易下經夬傳第五¶
 　　　　　　　王弼注¶
@@ -343,4 +347,3 @@
 周易卷第五(經二千六百九字/注六千三百八十四字)¶
 <pb:KR1a0006_SBCK_005-16b>¶
 <pb:KR1a0006_SBCK_005-16b>¶
-
